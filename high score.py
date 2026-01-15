@@ -7,3 +7,5 @@ for score in scores:
         maxScore = score
 
 print(f"Highest score is: {maxScore}")
+
+
